@@ -26,25 +26,25 @@ header {
     margin-top: -30px;
 }
 
-.nav_links {
+#menu {
     list-style: none;
 }
 
-.nav_links li {
+#menu li {
     display: inline-block;
     padding: 0px 20px;
 }
 
-.nav_links li a {
+#menu li a {
     transition: all 0.3s ease 0s;
 }
 
-.nav_links li a:hover {
+#menu li a:hover {
     color: black;
 }
 
 @media (max-width: 1395px) {
-    .nav_links li a {
+    #menu li a {
         font-size: 16px;
     }
 }
