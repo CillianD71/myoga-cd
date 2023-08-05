@@ -134,3 +134,8 @@ nav input:checked ~ .hamburger:after {
         font-size: 60px;
     }
 }
+
+#page-container {
+    min-height: 97vh;
+    position: relative;
+  }
