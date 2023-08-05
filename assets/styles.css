@@ -26,6 +26,11 @@ header {
     margin-top: -30px;
 }
 
+header {
+    height: 120px;
+    background-color: #FFFFFF;
+}
+
 #menu {
     list-style: none;
 }
