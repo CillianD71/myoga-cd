@@ -21,7 +21,6 @@ header {
 }
 
 #logo {
-    float: left;
     cursor: pointer;
     margin-right: auto;
     max-width: 20%;
