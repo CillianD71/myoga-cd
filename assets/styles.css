@@ -123,6 +123,12 @@ header {
     top: 0;
   }
 
+  #yoga-1 {
+    width: 100%;
+    height: auto;
+  }
+
+
   label {
     color: #767676;
   }
